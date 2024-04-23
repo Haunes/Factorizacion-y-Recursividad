@@ -1,5 +1,5 @@
 Integrantes:
-Juan Barrera
+Juan Barrera / 
 Juan Serrano
 
 el siguiente codigo realiza dos funcionalidades:
