@@ -1,3 +1,7 @@
+Integrantes:
+Juan Barrera
+Juan Serrano
+
 el siguiente codigo realiza dos funcionalidades:
 1. Realiza la eliminacion de recursividad de nuestras gramaticas
 2. Realiza la factorizacion de nuestra gramatica resultante del paso anterior
